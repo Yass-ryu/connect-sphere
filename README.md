@@ -8,7 +8,7 @@ The project demonstrates full-stack development skills including frontend UI des
 ---
 
 ## 🌐 Live Demo
-👉 https://......
+👉 https://connect-sphere-one.vercel.app/
 
 ---
 
